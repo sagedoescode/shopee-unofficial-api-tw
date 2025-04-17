@@ -1,0 +1,2898 @@
+{
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "item": {
+      "item_id": 9368269078,
+      "shop_id": 327985547,
+      "item_status": "normal",
+      "status": 1,
+      "item_type": 0,
+      "reference_item_id": "",
+      "title": "日本【UCC】 BLACK無糖咖啡飲料 185g",
+      "image": "212c146b7c07c3ba70bb25e1740916ed",
+      "label_ids": [
+        1007880,
+        844931086908638,
+        1717998011,
+        1007681,
+        1016184,
+        1718088130,
+        1838640,
+        1853609,
+        700640021,
+        998031090,
+        1978653,
+        1400635031,
+        298843331
+      ],
+      "is_adult": false,
+      "is_preview": false,
+      "flag": 65536,
+      "is_service_by_shopee": false,
+      "condition": 1,
+      "cat_id": 100629,
+      "has_low_fulfillment_rate": false,
+      "is_live_streaming_price": null,
+      "currency": "TWD",
+      "brand": "ucc",
+      "brand_id": 1139704,
+      "show_discount": 0,
+      "ctime": 1623994458,
+      "item_rating": {
+        "rating_star": 5
+      },
+      "cb_option": 0,
+      "has_model_with_available_shopee_stock": false,
+      "shop_location": "雲林縣二崙鄉",
+      "attributes": [
+        {
+          "name": "產地",
+          "value": "日本",
+          "id": 100037,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 1,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null
+        },
+        {
+          "name": "飲品類型",
+          "value": "即飲",
+          "id": 101001,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 5466,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null
+        }
+      ],
+      "rich_text_description": {
+        "paragraph_list": [
+          {
+            "type": 0,
+            "text": "★日本原裝進口",
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "★體驗黑咖啡的純粹",
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "★不苦澀，清新爽口",
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "★罐裝咖啡也能有現煮咖啡的享受",
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "★商品特色",
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "隨著拿鐵咖啡，焦糖瑪其朵等調味咖啡的興起，",
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "愈來愈多人忘了如何品嘗咖啡的原味",
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "UCC人氣第一的無糖黑咖啡，不苦澀，清新爽口",
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "邀你體驗黑咖啡純粹的魅力，追隨咖啡的極緻原味",
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "★商品成分",
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "研磨咖啡",
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "★商品規格",
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "185公克(罐)",
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "★保存期限",
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 0,
+            "text": "2025.07.26",
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "全家  OK  蝦皮店到店  蝦皮店到宅 1張單最多 30罐=1箱",
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": null
+          },
+          {
+            "type": 10001,
+            "text": null,
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": 1
+          },
+          {
+            "type": 0,
+            "text": "黑貓 宅配通 新竹物流 嘉里快遞 一張單最多可 90罐=3箱",
+            "img_id": null,
+            "ratio": null,
+            "empty_paragraph_count": null
+          }
+        ]
+      },
+      "invoice_option": null,
+      "is_category_failed": null,
+      "is_prescription_item": false,
+      "preview_info": null,
+      "show_prescription_feed": false,
+      "is_alcohol_product": false,
+      "is_infant_milk_formula_product": false,
+      "is_unavailable": false,
+      "is_partial_fulfilled": false,
+      "is_presale": false,
+      "is_presale_deposit_item": null,
+      "is_presale_deposit_made": null,
+      "description": "★日本原裝進口\n★體驗黑咖啡的純粹\n★不苦澀，清新爽口\n★罐裝咖啡也能有現煮咖啡的享受\n\n★商品特色\n隨著拿鐵咖啡，焦糖瑪其朵等調味咖啡的興起，\n愈來愈多人忘了如何品嘗咖啡的原味\n\nUCC人氣第一的無糖黑咖啡，不苦澀，清新爽口\n邀你體驗黑咖啡純粹的魅力，追隨咖啡的極緻原味\n\n★商品成分\n研磨咖啡\n\n★商品規格\n185公克(罐)\n\n★保存期限\n2025.07.26\n\n全家  OK  蝦皮店到店  蝦皮店到宅 1張單最多 30罐=1箱\n\n黑貓 宅配通 新竹物流 嘉里快遞 一張單最多可 90罐=3箱\n",
+      "categories": [
+        {
+          "catid": 100629,
+          "display_name": "美食、伴手禮",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100651,
+          "display_name": "飲品",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100824,
+          "display_name": "咖啡",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "fe_categories": [
+        {
+          "catid": 11040483,
+          "display_name": "美食、伴手禮",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11040529,
+          "display_name": "飲料、沖泡品",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11040531,
+          "display_name": "咖啡",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "item_has_video": false,
+      "presale_dday_start_time": null,
+      "is_lowest_price_at_shopee": null,
+      "display_description_disclosure_rsku_redirection": null,
+      "display_similar_sold": null,
+      "models": [
+        {
+          "item_id": 9368269078,
+          "status": 1,
+          "current_promotion_reserved_stock": 0,
+          "name": "",
+          "promotion_id": 0,
+          "price": 1400000,
+          "price_stocks": [
+            {
+              "allocated_stock": 0,
+              "stock_breakdown_by_location": [
+                {
+                  "location_id": "TWZ",
+                  "available_stock": 0,
+                  "fulfilment_type": 2,
+                  "address_id": 0,
+                  "allocated_stock": null
+                }
+              ],
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": 0,
+          "extinfo": {
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "price_before_discount": 0,
+          "model_id": 92844746199,
+          "stock": 0,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 1354,
+          "is_lowest_price_at_shopee": false
+        }
+      ],
+      "tier_variations": [
+        {
+          "name": "",
+          "options": [
+            ""
+          ],
+          "images": null,
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            2
+          ]
+        }
+      ],
+      "size_chart": null,
+      "size_chart_info": null,
+      "welcome_package_type": 0,
+      "is_free_gift": false,
+      "deep_discount": null,
+      "is_low_price_eligible": null,
+      "bundle_deal_info": null,
+      "add_on_deal_info": null,
+      "shipping_icon_type": 0,
+      "badge_icon_type": 0,
+      "spl_info": {
+        "installment_info": null,
+        "user_credit_info": null,
+        "channel_id": null,
+        "show_spl": true,
+        "show_spl_lite": null,
+        "spl_xtra": null,
+        "spl_motorcycle_loan": null
+      },
+      "estimated_days": 2,
+      "is_pre_order": false,
+      "is_free_shipping": false,
+      "overall_purchase_limit": null,
+      "min_purchase_limit": 1,
+      "is_hide_stock": false,
+      "stock": 0,
+      "normal_stock": 0,
+      "current_promotion_reserved_stock": 0,
+      "can_use_wholesale": false,
+      "wholesale_tier_list": [],
+      "price": 1400000,
+      "raw_discount": 0,
+      "hidden_price_display": null,
+      "price_min": 1400000,
+      "price_max": 1400000,
+      "price_before_discount": 0,
+      "price_min_before_discount": -1,
+      "price_max_before_discount": -1,
+      "other_stock": 0,
+      "discount_stock": 0,
+      "current_promotion_has_reserve_stock": false,
+      "complaint_policy": null,
+      "show_recycling_info": null,
+      "should_show_amp_tag": true,
+      "all_models_has_pre_order": false,
+      "is_item_inherited": false,
+      "max_quantity": 0,
+      "selected_real_models": null
+    },
+    "account": {
+      "user_id": 1522459256,
+      "is_new_user": true,
+      "default_address": {
+        "state": "臺北市",
+        "city": "中正區",
+        "district": "",
+        "town": "",
+        "zip_code": null,
+        "address": null,
+        "region": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "adult_consent": 0,
+      "birth_timestamp": 0
+    },
+    "product_images": {
+      "video": null,
+      "images": [
+        "212c146b7c07c3ba70bb25e1740916ed"
+      ],
+      "first_tier_variations": [],
+      "sorted_variation_image_index_list": [],
+      "overlay": {
+        "type": 0,
+        "image": "tw-11134258-7rasi-m3rz9oks6tsn71",
+        "preview_end_time": null,
+        "is_pre_order": null,
+        "description": ""
+      },
+      "makeup_preview": null,
+      "abnormal_status": "sold_out",
+      "promotion_images": [],
+      "long_images": null,
+      "shopee_video_info_list": [],
+      "shopee_video_rcmd_info": null,
+      "shopee_video_req_id": null,
+      "skincam": null,
+      "pdp_top_info_list": null,
+      "has_long_image": null,
+      "show_find_similar": false
+    },
+    "product_price": {
+      "discount": null,
+      "installment_info": {
+        "recommended_plan": {
+          "months": 6,
+          "pay_per_month": 233000,
+          "has_buyer_transaction_fee": true
+        }
+      },
+      "spl_installment_info": null,
+      "pack_size": "",
+      "hide_price": false,
+      "price": {
+        "single_value": 1400000,
+        "range_min": -1,
+        "range_max": -1,
+        "price_mask": null
+      },
+      "price_before_discount": null,
+      "presale_price": null,
+      "lowest_past_price": null,
+      "labels": null,
+      "hide_discount": false,
+      "discount_text": null,
+      "show_final_price_indicator": false,
+      "final_price_vouchers": null,
+      "has_final_price": true
+    },
+    "flash_sale": null,
+    "flash_sale_preview": null,
+    "deep_discount": null,
+    "exclusive_price": null,
+    "exclusive_price_cta": null,
+    "product_meta": {
+      "show_lowest_price_guarantee": null,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "show_official_shop_label_in_title": false,
+      "show_shopee_verified_label": true,
+      "show_lowest_installment_guarantee": null,
+      "hide_sharing_button": false,
+      "hide_sold_count": false
+    },
+    "product_review": {
+      "rating_star": 5,
+      "rating_count": [
+        45,
+        0,
+        0,
+        0,
+        0,
+        45
+      ],
+      "total_rating_count": 45,
+      "historical_sold": 1354,
+      "global_sold": 1354,
+      "liked": false,
+      "liked_count": 32,
+      "cmt_count": 45,
+      "should_move_ratings_above": null,
+      "review_rcmd_exp_group": null,
+      "display_global_sold": false,
+      "hide_rating": false,
+      "hide_buyer_gallery": false,
+      "hide_reviews": false,
+      "hide_other_product_reviews_in_shop": false,
+      "sold_count_disclosure": null
+    },
+    "promotion_info": {
+      "spl": null,
+      "spl_lite": null,
+      "installment": {
+        "month": 6,
+        "price_raw": 233000,
+        "interest": 0,
+        "has_buyer_transaction_fee": true,
+        "display_text": "6期x {{price}} (0利率)"
+      },
+      "wholesale": null,
+      "insurance": null,
+      "item_installment_eligibility": {
+        "is_cc_installment_payment_eligible": true,
+        "is_non_cc_installment_payment_eligible": true
+      }
+    },
+    "age_gate": {
+      "kyc": null
+    },
+    "shipping_meta": null,
+    "product_shipping": {
+      "free_shipping": {
+        "min_spend": {
+          "single_value": 19900000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "has_fss": false
+      },
+      "shipping_fee_info": {
+        "ship_from_location": "雲林縣二崙鄉",
+        "price": {
+          "single_value": -1,
+          "range_min": 4500000,
+          "range_max": 17000000,
+          "price_mask": null
+        },
+        "shipping_icon_type": 0,
+        "warning": null
+      },
+      "show_shipping_to": true,
+      "ungrouped_channel_infos": [
+        {
+          "channel_id": 30015,
+          "name": "蝦皮店到店",
+          "price": {
+            "single_value": 4500000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": null,
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1745023224,
+            "estimated_delivery_date_to": 1745282424,
+            "estimated_delivery_time_min": 2,
+            "estimated_delivery_time_max": 5,
+            "delay_message": "免運店家滿$199無限免運; 週三週六$149無限免運",
+            "is_fastest_edt_channel": false,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "預計配達時間 4月19日 - 4月22日",
+            "formatted_edt_text": [
+              {
+                "template": "預計配達時間 4月19日 - 4月22日",
+                "format": null,
+                "attributes": null,
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ]
+          },
+          "channel_promotion_infos": [
+            {
+              "rule_id": 304624624472065,
+              "type": 1,
+              "display_mode": null,
+              "discount_off": null,
+              "min_spend": {
+                "single_value": 19900000,
+                "range_min": -1,
+                "range_max": -1,
+                "price_mask": null
+              },
+              "cap": null
+            }
+          ],
+          "warning": null,
+          "shipping_icon_type": null,
+          "lowest_bpsf_promotion_rule": null,
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": {
+            "type": 1,
+            "amount": 1000000,
+            "is_guaranteed_edt": true,
+            "compensation_amount": null,
+            "text": null
+          },
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": {
+              "text": "如果訂單未能準時配達，您可以領取 {compensation_amount} 優惠券作為補償",
+              "gdt_max": null,
+              "compensation_amount": {
+                "value": 1000000
+              }
+            },
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": null
+        },
+        {
+          "channel_id": 30019,
+          "name": "蝦皮店到店 - 隔日到貨",
+          "price": {
+            "single_value": 5500000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 6000000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1744936824,
+            "estimated_delivery_date_to": 1744936824,
+            "estimated_delivery_time_min": 1,
+            "estimated_delivery_time_max": 1,
+            "delay_message": "免運店家滿$299免運; 平日14點前下單隔日晚間到",
+            "is_fastest_edt_channel": false,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "預計明天配達",
+            "formatted_edt_text": [
+              {
+                "template": "{label_edt_instructions_before_cutoff_time+pdp_guaranteed_get_by_tomorrow}",
+                "format": null,
+                "attributes": [
+                  {
+                    "type": 1,
+                    "key": "label_edt_instructions_before_cutoff_time+pdp_guaranteed_get_by_tomorrow",
+                    "value": {
+                      "value_str": "今天 14:00 前下單，預計配達日 - 明天",
+                      "value_int": null
+                    },
+                    "format": null,
+                    "text_color": null,
+                    "text_hex_color": "#000000de"
+                  }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ]
+          },
+          "channel_promotion_infos": [
+            {
+              "rule_id": 306734824951808,
+              "type": 0,
+              "display_mode": 0,
+              "discount_off": 5500000,
+              "min_spend": {
+                "single_value": 0,
+                "range_min": -1,
+                "range_max": -1,
+                "price_mask": null
+              },
+              "cap": 0
+            },
+            {
+              "rule_id": 304626163777536,
+              "type": 1,
+              "display_mode": null,
+              "discount_off": null,
+              "min_spend": {
+                "single_value": 29900000,
+                "range_min": -1,
+                "range_max": -1,
+                "price_mask": null
+              },
+              "cap": null
+            }
+          ],
+          "warning": null,
+          "shipping_icon_type": null,
+          "lowest_bpsf_promotion_rule": null,
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": {
+            "type": 1,
+            "amount": 3000000,
+            "is_guaranteed_edt": true,
+            "compensation_amount": null,
+            "text": null
+          },
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": {
+              "text": "如果訂單未能準時配達，您可以領取 {compensation_amount} 優惠券作為補償",
+              "gdt_max": null,
+              "compensation_amount": {
+                "value": 3000000
+              }
+            },
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": null
+        },
+        {
+          "channel_id": 30017,
+          "name": "店到家宅配",
+          "price": {
+            "single_value": 6500000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": null,
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1745109624,
+            "estimated_delivery_date_to": 1745282424,
+            "estimated_delivery_time_min": 3,
+            "estimated_delivery_time_max": 5,
+            "delay_message": "免運店家滿$490免運；配送範圍限台北、新北、桃園、新竹、台中、彰化、雲林、嘉義、台南、高雄、宜蘭，部分行政區及區域除外",
+            "is_fastest_edt_channel": false,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "預計配達時間 4月20日 - 4月22日",
+            "formatted_edt_text": [
+              {
+                "template": "預計配達時間 4月20日 - 4月22日",
+                "format": null,
+                "attributes": null,
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ]
+          },
+          "channel_promotion_infos": [
+            {
+              "rule_id": 304627354963968,
+              "type": 1,
+              "display_mode": null,
+              "discount_off": null,
+              "min_spend": {
+                "single_value": 49000000,
+                "range_min": -1,
+                "range_max": -1,
+                "price_mask": null
+              },
+              "cap": null
+            }
+          ],
+          "warning": null,
+          "shipping_icon_type": null,
+          "lowest_bpsf_promotion_rule": null,
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": {
+            "type": 1,
+            "amount": 1000000,
+            "is_guaranteed_edt": true,
+            "compensation_amount": null,
+            "text": null
+          },
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": {
+              "text": "如果訂單未能準時配達，您可以領取 {compensation_amount} 優惠券作為補償",
+              "gdt_max": null,
+              "compensation_amount": {
+                "value": 1000000
+              }
+            },
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": null
+        },
+        {
+          "channel_id": 30006,
+          "name": "全家",
+          "price": {
+            "single_value": 6000000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": null,
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1744936824,
+            "estimated_delivery_date_to": 1745109624,
+            "estimated_delivery_time_min": 1,
+            "estimated_delivery_time_max": 3,
+            "delay_message": null,
+            "is_fastest_edt_channel": false,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "預計配達時間 4月18日 - 4月20日",
+            "formatted_edt_text": [
+              {
+                "template": "預計配達時間 4月18日 - 4月20日",
+                "format": null,
+                "attributes": null,
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ]
+          },
+          "channel_promotion_infos": [
+            {
+              "rule_id": 304941910982656,
+              "type": 1,
+              "display_mode": null,
+              "discount_off": null,
+              "min_spend": {
+                "single_value": 29900000,
+                "range_min": -1,
+                "range_max": -1,
+                "price_mask": null
+              },
+              "cap": null
+            }
+          ],
+          "warning": null,
+          "shipping_icon_type": null,
+          "lowest_bpsf_promotion_rule": null,
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": null
+        },
+        {
+          "channel_id": 30020,
+          "name": "新竹物流",
+          "price": {
+            "single_value": 9000000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": null,
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1744946955,
+            "estimated_delivery_date_to": 1745033355,
+            "estimated_delivery_time_min": 1,
+            "estimated_delivery_time_max": 2,
+            "delay_message": null,
+            "is_fastest_edt_channel": false,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "預計配達時間 4月18日 - 4月19日",
+            "formatted_edt_text": [
+              {
+                "template": "預計配達時間 4月18日 - 4月19日",
+                "format": null,
+                "attributes": null,
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ]
+          },
+          "channel_promotion_infos": [],
+          "warning": null,
+          "shipping_icon_type": null,
+          "lowest_bpsf_promotion_rule": null,
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": null
+        },
+        {
+          "channel_id": 30012,
+          "name": "宅配通",
+          "price": {
+            "single_value": 13000000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": null,
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1744927308,
+            "estimated_delivery_date_to": 1745280235,
+            "estimated_delivery_time_min": 1,
+            "estimated_delivery_time_max": 5,
+            "delay_message": "請留意:為避免無法正常配送，您的地址請勿輸入異常符號，例如：\"/\" \"*\"....等。",
+            "is_fastest_edt_channel": false,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "預計配達時間 4月18日 - 4月22日",
+            "formatted_edt_text": [
+              {
+                "template": "預計配達時間 4月18日 - 4月22日",
+                "format": null,
+                "attributes": null,
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ]
+          },
+          "channel_promotion_infos": [],
+          "warning": null,
+          "shipping_icon_type": null,
+          "lowest_bpsf_promotion_rule": null,
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": null
+        },
+        {
+          "channel_id": 30014,
+          "name": "OK Mart",
+          "price": {
+            "single_value": 4500000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": null,
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1745023224,
+            "estimated_delivery_date_to": 1745282424,
+            "estimated_delivery_time_min": 2,
+            "estimated_delivery_time_max": 5,
+            "delay_message": null,
+            "is_fastest_edt_channel": false,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "預計配達時間 4月19日 - 4月22日",
+            "formatted_edt_text": [
+              {
+                "template": "預計配達時間 4月19日 - 4月22日",
+                "format": null,
+                "attributes": null,
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ]
+          },
+          "channel_promotion_infos": [
+            {
+              "rule_id": 304627333988352,
+              "type": 1,
+              "display_mode": null,
+              "discount_off": null,
+              "min_spend": {
+                "single_value": 19900000,
+                "range_min": -1,
+                "range_max": -1,
+                "price_mask": null
+              },
+              "cap": null
+            }
+          ],
+          "warning": null,
+          "shipping_icon_type": null,
+          "lowest_bpsf_promotion_rule": null,
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": null
+        },
+        {
+          "channel_id": 30001,
+          "name": "黑貓宅急便",
+          "price": {
+            "single_value": 17000000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": null,
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1744918971,
+            "estimated_delivery_date_to": 1745015108,
+            "estimated_delivery_time_min": 1,
+            "estimated_delivery_time_max": 2,
+            "delay_message": null,
+            "is_fastest_edt_channel": false,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "預計配達時間 4月18日 - 4月19日",
+            "formatted_edt_text": [
+              {
+                "template": "預計配達時間 4月18日 - 4月19日",
+                "format": null,
+                "attributes": null,
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ]
+          },
+          "channel_promotion_infos": [],
+          "warning": null,
+          "shipping_icon_type": null,
+          "lowest_bpsf_promotion_rule": null,
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": null
+        },
+        {
+          "channel_id": 30018,
+          "name": "嘉里快遞",
+          "price": {
+            "single_value": 10500000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": null,
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1744919143,
+            "estimated_delivery_date_to": 1745268571,
+            "estimated_delivery_time_min": 1,
+            "estimated_delivery_time_max": 5,
+            "delay_message": null,
+            "is_fastest_edt_channel": false,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "預計配達時間 4月18日 - 4月22日",
+            "formatted_edt_text": [
+              {
+                "template": "預計配達時間 4月18日 - 4月22日",
+                "format": null,
+                "attributes": null,
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ]
+          },
+          "channel_promotion_infos": [],
+          "warning": null,
+          "shipping_icon_type": null,
+          "lowest_bpsf_promotion_rule": null,
+          "service_type_info": "",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": null
+        },
+        {
+          "channel_id": 39303,
+          "name": "中華郵政",
+          "price": {
+            "single_value": 12000000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": null,
+          "channel_delivery_info": {
+            "has_edt": false,
+            "display_mode": null,
+            "estimated_delivery_date_from": null,
+            "estimated_delivery_date_to": null,
+            "estimated_delivery_time_min": null,
+            "estimated_delivery_time_max": null,
+            "delay_message": null,
+            "is_fastest_edt_channel": false,
+            "sla_message": "",
+            "show_edt": null,
+            "edt_text": null,
+            "formatted_edt_text": null
+          },
+          "channel_promotion_infos": [],
+          "warning": null,
+          "shipping_icon_type": null,
+          "lowest_bpsf_promotion_rule": null,
+          "service_type_info": "",
+          "is_integrated_channel": false,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": null
+        },
+        {
+          "channel_id": 39304,
+          "name": "賣家宅配",
+          "price": {
+            "single_value": 12000000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": null,
+          "channel_delivery_info": {
+            "has_edt": false,
+            "display_mode": null,
+            "estimated_delivery_date_from": null,
+            "estimated_delivery_date_to": null,
+            "estimated_delivery_time_min": null,
+            "estimated_delivery_time_max": null,
+            "delay_message": null,
+            "is_fastest_edt_channel": false,
+            "sla_message": "",
+            "show_edt": null,
+            "edt_text": null,
+            "formatted_edt_text": null
+          },
+          "channel_promotion_infos": [],
+          "warning": null,
+          "shipping_icon_type": null,
+          "lowest_bpsf_promotion_rule": null,
+          "service_type_info": "",
+          "is_integrated_channel": false,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": null
+        }
+      ],
+      "grouped_channel_infos_by_service_type": [],
+      "also_available_channel_name": "",
+      "pre_selected_shipping_channel": {
+        "channel_id": 30015,
+        "name": "蝦皮店到店",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "price_before_discount": {
+          "single_value": 4500000,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "channel_delivery_info": {
+          "has_edt": true,
+          "display_mode": "edt_by_date",
+          "estimated_delivery_date_from": 1745023224,
+          "estimated_delivery_date_to": 1745282424,
+          "estimated_delivery_time_min": 2,
+          "estimated_delivery_time_max": 5,
+          "delay_message": "免運店家滿$199無限免運; 週三週六$149無限免運",
+          "is_fastest_edt_channel": false,
+          "sla_message": "",
+          "show_edt": true,
+          "edt_text": "預計配達時間 4月19日 - 4月22日",
+          "formatted_edt_text": [
+            {
+              "template": "預計配達時間 4月19日 - 4月22日",
+              "format": [],
+              "attributes": null,
+              "text_color": null,
+              "text_hex_color": null
+            }
+          ]
+        },
+        "channel_promotion_infos": [
+          {
+            "rule_id": 304624624472065,
+            "type": 1,
+            "display_mode": 0,
+            "discount_off": 0,
+            "min_spend": {
+              "single_value": 19900000,
+              "range_min": -1,
+              "range_max": -1,
+              "price_mask": ""
+            },
+            "cap": 0
+          }
+        ],
+        "warning": {
+          "type": "",
+          "warning_msg": ""
+        },
+        "shipping_icon_type": null,
+        "lowest_bpsf_promotion_rule": null,
+        "service_type_info": "",
+        "is_integrated_channel": true,
+        "late_delivery_compensation": {
+          "type": 1,
+          "amount": 1000000,
+          "is_guaranteed_edt": true,
+          "compensation_amount": {
+            "value": 1000000
+          },
+          "text": ""
+        },
+        "is_sst_included": false,
+        "display_text": {
+          "late_delivery_compensation": {
+            "text": "如果訂單未能準時配達，您可以領取 {compensation_amount} 優惠券作為補償",
+            "gdt_max": null,
+            "compensation_amount": {
+              "value": 1000000
+            }
+          },
+          "direct_delivery": null,
+          "fulfilled_by_shopee": null,
+          "spx_instant_delivery": null
+        },
+        "rule_type": 0,
+        "is_xdd_channel": false,
+        "show_shopee_plus_icon": false,
+        "xdd_value": 0
+      },
+      "show_grouped_channel_first": false,
+      "is_item_with_price_range": false,
+      "also_available_channel_icon_type": null,
+      "pre_order_text": "",
+      "selected_late_delivery_compensation_for_drawer": null,
+      "shipping_info_text": {
+        "text_template": null,
+        "shipping_fee": null,
+        "edt_from": null,
+        "edt_to": null,
+        "show_shipping_fee_suffix": true,
+        "formatted_text": {
+          "edt": {
+            "template": "預計配達時間 4月19日 - 4月22日",
+            "format": null,
+            "attributes": null,
+            "text_color": null,
+            "text_hex_color": null
+          },
+          "shipping_fee": {
+            "template": "運費：$0 起",
+            "format": null,
+            "attributes": null,
+            "text_color": null,
+            "text_hex_color": null
+          },
+          "late_delivery_compensation": {
+            "template": "如果訂單未能準時配達，您可以領取 {compensation_amount} 優惠券作為補償",
+            "format": null,
+            "attributes": [
+              {
+                "type": 2,
+                "key": "compensation_amount",
+                "value": {
+                  "value_str": null,
+                  "value_int": 1000000
+                },
+                "format": null,
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ],
+            "text_color": null,
+            "text_hex_color": null
+          }
+        }
+      }
+    },
+    "shop_vouchers": [],
+    "free_return": null,
+    "coin_info": {
+      "spend_cash_unit": 100000,
+      "coin_earn_items": [],
+      "coin_earn_label": null
+    },
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "品牌",
+          "value": "ucc",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": "/search?brands=1139704",
+          "brand_id": 1139704,
+          "full_url": "https://shopee.tw/search?brands=1139704",
+          "type": 1
+        },
+        {
+          "name": "產地",
+          "value": "日本",
+          "id": 100037,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5
+        },
+        {
+          "name": "飲品類型",
+          "value": "即飲",
+          "id": 101001,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5
+        },
+        {
+          "name": "出貨地",
+          "value": "雲林縣二崙鄉",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 6
+        }
+      ],
+      "categories": [
+        {
+          "catid": 11040483,
+          "display_name": "美食、伴手禮",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11040529,
+          "display_name": "飲料、沖泡品",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11040531,
+          "display_name": "咖啡",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "related_items": []
+    },
+    "shop_detailed": {
+      "shopid": 327985547,
+      "userid": 328005122,
+      "last_active_time": 1744850399,
+      "vacation": false,
+      "place": "雲林縣二崙鄉",
+      "account": {
+        "portrait": "7aed0a13956d8350d8af77fa2ca0435f",
+        "username": "aqh6271",
+        "status": 1
+      },
+      "is_shopee_verified": true,
+      "is_preferred_plus_seller": false,
+      "is_official_shop": false,
+      "shop_location": "雲林縣二崙鄉",
+      "item_count": 53,
+      "rating_star": 4.971708,
+      "response_rate": 98,
+      "session_info": null,
+      "name": "桂格養氣人蔘 有糖/無糖 白蘭氏 活靈芝 葡萄糖胺飲  蜜人蔘 人蔘雞精 蜆精",
+      "ctime": 1603706413,
+      "response_time": 11086,
+      "follower_count": 1297,
+      "show_official_shop_label": false,
+      "rating_bad": 30,
+      "rating_good": 26502,
+      "rating_normal": 83,
+      "session_infos": null,
+      "status": 1,
+      "is_individual_seller": null,
+      "is_mart": false,
+      "favorite_shop_info": null,
+      "is_3pf": false,
+      "sold_total": 1048913,
+      "is_shopee_choice": false,
+      "is_high_end": false,
+      "banner": {
+        "shopee_choice": null
+      },
+      "authorized_brand": null,
+      "is_scs": false
+    },
+    "age_gate_control": null,
+    "abnormal_popup": null,
+    "return_on_spot": null,
+    "display_sections": {
+      "add_on_deal": null,
+      "bundle_deal": null,
+      "exclusive_price_label": null,
+      "free_return": null,
+      "coin": null,
+      "wholesale": null
+    },
+    "ineligible_ep": null,
+    "tax_disclaimer": null,
+    "alcohol_disclaimer": null,
+    "design_control": {
+      "use_new_revamp_first_screen": null,
+      "display_on_time_delivery_guarantee": true,
+      "disable_price_with_variation": false,
+      "display_direct_delivery": false,
+      "use_new_featured_video_revamp": null,
+      "first_screen_revamp_abtest_group": null,
+      "display_choice_customised_section": false,
+      "is_support_fbs_enabled": false,
+      "top_section_featured_video_ab_test_group": null,
+      "enable_ksp_config": null,
+      "disable_main_page_select_variation": null,
+      "support_shop_review_preview": null,
+      "pdp_revamp_phase1_improvement_ui_review_down": null
+    },
+    "shopee_free_return": null,
+    "detail_level": 0,
+    "removed_fields": null,
+    "size_guide": null,
+    "designer_info": null,
+    "shipping_info": null,
+    "vehicle_compatibility_info": null,
+    "nea": null,
+    "button_group": {
+      "buy_with_voucher": null
+    },
+    "installment_drawer": {
+      "priority": [
+        0,
+        1
+      ],
+      "spl": null,
+      "bank": {
+        "channels": [
+          {
+            "channel_ic": "ic_paymentoption_ccinstallment",
+            "channel_name": "label_cc_installment",
+            "is_cc": true,
+            "plans": null,
+            "banks": [
+              {
+                "bank_id": 160,
+                "bank_name": "遠東國際商業銀行",
+                "bank_logo": "",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-80",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-81",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              },
+              {
+                "bank_id": 245,
+                "bank_name": "玉山商業銀行",
+                "bank_logo": "",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-21",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-22",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              },
+              {
+                "bank_id": 366,
+                "bank_name": "兆豐國際商業銀行",
+                "bank_logo": "",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-85",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-86",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              },
+              {
+                "bank_id": 565,
+                "bank_name": "永豐商業銀行",
+                "bank_logo": "",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-95",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-96",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              },
+              {
+                "bank_id": 607,
+                "bank_name": "第一商業銀行",
+                "bank_logo": "",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-70",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-71",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              },
+              {
+                "bank_id": 764,
+                "bank_name": "中國信託商業銀行",
+                "bank_logo": "",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-39005135",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-39005136",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              },
+              {
+                "bank_id": 948,
+                "bank_name": "上海商業儲蓄銀行",
+                "bank_logo": "",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-36",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-37",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              },
+              {
+                "bank_id": 1049,
+                "bank_name": "國泰世華商業銀行",
+                "bank_logo": "",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-31",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-32",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              },
+              {
+                "bank_id": 1636,
+                "bank_name": "台新國際商業銀行",
+                "bank_logo": "",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-26",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-27",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              },
+              {
+                "bank_id": 1816,
+                "bank_name": "聯邦商業銀行",
+                "bank_logo": "",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-65",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-66",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              },
+              {
+                "bank_id": 3532,
+                "bank_name": "台中商業銀行",
+                "bank_logo": "",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-39005130",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-39005131",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              },
+              {
+                "bank_id": 3689,
+                "bank_name": "陽信商業銀行",
+                "bank_logo": "",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-39005160",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-39005161",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              },
+              {
+                "bank_id": 3931,
+                "bank_name": "渣打國際商業銀行",
+                "bank_logo": "",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-105",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-106",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              },
+              {
+                "bank_id": 4187,
+                "bank_name": "安泰商業銀行",
+                "bank_logo": "",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-39005155",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-39005156",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              },
+              {
+                "bank_id": 4203,
+                "bank_name": "華南商業銀行",
+                "bank_logo": "",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-75",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-76",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              },
+              {
+                "bank_id": 4243,
+                "bank_name": "台北富邦商業銀行",
+                "bank_logo": "",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-41",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-42",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              },
+              {
+                "bank_id": 4629,
+                "bank_name": "彰化商業銀行",
+                "bank_logo": "",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-125",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-126",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              },
+              {
+                "bank_id": 5791,
+                "bank_name": "臺灣新光商業銀行",
+                "bank_logo": "",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-56",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-57",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              },
+              {
+                "bank_id": 6016,
+                "bank_name": "花旗(台灣)商業銀行",
+                "bank_logo": "",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-90",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-91",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              },
+              {
+                "bank_id": 10204,
+                "bank_name": "凱基商業銀行",
+                "bank_logo": "",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-46",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-47",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              },
+              {
+                "bank_id": 13922,
+                "bank_name": "元大商業銀行",
+                "bank_logo": "https://mall.shopee.tw/static/images/bank_logo/ic_yuanta_bank.png",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-60",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-61",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              },
+              {
+                "bank_id": 13928,
+                "bank_name": "星展（台灣）銀行",
+                "bank_logo": "https://mall.shopee.tw/static/images/bank_logo/ic_dbs_bank_taiwan.png",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-110",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-111",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              },
+              {
+                "bank_id": 13941,
+                "bank_name": "樂天信用卡",
+                "bank_logo": "https://mall.shopee.tw/static/images/bank_logo/ic_taiwan_rakuten_card.png",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-120",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-121",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              },
+              {
+                "bank_id": 13944,
+                "bank_name": "滙豐（台灣）銀行",
+                "bank_logo": "https://mall.shopee.tw/static/images/bank_logo/ic_hsbc_taiwan.png",
+                "sub_options": [
+                  {
+                    "data": {
+                      "name": "3x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 3,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 466000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-100",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  },
+                  {
+                    "data": {
+                      "name": "6x @ 0.00%",
+                      "channel_id": 3000501,
+                      "tenure": 6,
+                      "total_amount": 1400000,
+                      "down_payment": null,
+                      "interest_rate": 0,
+                      "installment_amount": null,
+                      "monthly_installment": 233000,
+                      "bank_id": null,
+                      "bank_name": null,
+                      "has_buyer_transaction_fee": true
+                    },
+                    "name": null,
+                    "option_info": "3000501-101",
+                    "disabled_reason_key": null,
+                    "disabled_reason": null,
+                    "disabled_reason_data": null
+                  }
+                ]
+              }
+            ],
+            "plan_groups": null
+          }
+        ]
+      },
+      "credit_card": null
+    },
+    "ongoing_banner": null,
+    "teaser_banner": null,
+    "price_breakdown": null,
+    "membership_exclusive": null,
+    "membership_exclusive_teaser": null,
+    "service_entrance": {
+      "services": [
+        {
+          "text": "蝦皮安心退",
+          "type": 0,
+          "id": 51
+        }
+      ]
+    },
+    "service_drawer": {
+      "services": [
+        {
+          "title": "蝦皮安心退",
+          "description": "蝦皮提供蝦皮安心退服務，由蝦皮作為買、賣雙方的中介者，協助審核退貨退款，買家可選擇物流取件、超商寄件退貨方式，且無須負擔退貨運費，退貨狀態可於蝦皮內即時掌握。",
+          "type": 0,
+          "free_return": null,
+          "insurance": null,
+          "id": 51,
+          "redirection_url": "https://shopee.tw/m/newrr",
+          "icon": "tw-11134258-7rasm-m2rus0ffw963d1",
+          "insurance_drawer": null
+        }
+      ]
+    },
+    "trade_in": null,
+    "product_description": {
+      "paragraph_list": [
+        {
+          "type": 0,
+          "text": "★日本原裝進口",
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "★體驗黑咖啡的純粹",
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "★不苦澀，清新爽口",
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "★罐裝咖啡也能有現煮咖啡的享受",
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "★商品特色",
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "隨著拿鐵咖啡，焦糖瑪其朵等調味咖啡的興起，",
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "愈來愈多人忘了如何品嘗咖啡的原味",
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "UCC人氣第一的無糖黑咖啡，不苦澀，清新爽口",
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "邀你體驗黑咖啡純粹的魅力，追隨咖啡的極緻原味",
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "★商品成分",
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "研磨咖啡",
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "★商品規格",
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "185公克(罐)",
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "★保存期限",
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 0,
+          "text": "2025.07.26",
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "全家  OK  蝦皮店到店  蝦皮店到宅 1張單最多 30罐=1箱",
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": null
+        },
+        {
+          "type": 10001,
+          "text": null,
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": 1
+        },
+        {
+          "type": 0,
+          "text": "黑貓 宅配通 新竹物流 嘉里快遞 一張單最多可 90罐=3箱",
+          "img_id": null,
+          "ratio": null,
+          "empty_paragraph_count": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,59 @@
+2025-04-16 12:17:02,029 - shopee_scraper - INFO - Loaded 1 cookie files
+2025-04-16 12:17:02,029 - shopee_scraper - INFO - Loaded 0 individual proxies
+2025-04-16 12:17:02,059 - shopee_scraper - INFO - Started with cookie #0
+2025-04-16 17:46:26,087 [INFO] Starting Shopee TW Product Scraper
+2025-04-16 17:46:26,092 [INFO] Using 1 workers for 1 products
+2025-04-16 17:46:26,095 [INFO] Loaded 1 cookie files
+2025-04-16 17:46:26,095 [INFO] Loaded 0 individual proxies
+2025-04-16 17:46:29,293 [INFO] Worker 0 authenticated as user: whiteem0
+2025-04-16 17:46:31,797 [INFO] Requesting product 24051054892 from shop 163826 (attempt 1/5)
+2025-04-16 17:46:32,006 [WARNING] API returned error code: 90309999
+2025-04-16 17:46:32,006 [WARNING] Response missing data field: {'5': False, '2': True, '0': 2, '3': 90309999, 'error': 90309999, '1': '970ad8bd9ba-3be3-444d-83d7-a9ce391aff04'}
+2025-04-16 17:46:32,006 [INFO] Retry 1/5 for item 24051054892, backing off for 4.83s
+2025-04-16 17:46:36,835 [INFO] Requesting product 24051054892 from shop 163826 (attempt 2/5)
+2025-04-16 17:46:37,038 [WARNING] API returned error code: 90309999
+2025-04-16 17:46:37,038 [WARNING] Response missing data field: {'5': False, '2': True, '0': 2, '3': 90309999, 'error': 90309999, '1': '5b09f737d-42b6-4e99-8901-a825eee6f346'}
+2025-04-16 17:46:37,038 [INFO] Retry 2/5 for item 24051054892, backing off for 7.93s
+2025-04-16 17:59:09,084 [INFO] Starting Shopee TW Product Scraper
+2025-04-16 17:59:09,099 [INFO] Using 1 workers for 1 products
+2025-04-16 17:59:09,103 [INFO] Loaded 1 cookie files
+2025-04-16 17:59:09,104 [INFO] Loaded 0 individual proxies
+2025-04-16 17:59:12,691 [INFO] Worker 0 authenticated as user: jessepink644
+2025-04-16 17:59:16,041 [INFO] Requesting product 24051054892 from shop 163826 (attempt 1/5)
+2025-04-16 17:59:16,246 [WARNING] API returned error code: 90309999
+2025-04-16 17:59:16,246 [WARNING] Response missing data field: {'5': False, '2': True, '0': 2, '3': 90309999, 'error': 90309999, '1': '2212487c3c3-35d4-4f22-86e4-ef37a3cfe741'}
+2025-04-16 17:59:16,247 [INFO] Retry 1/5 for item 24051054892, backing off for 3.75s
+2025-04-16 18:54:40,148 [INFO] Starting Shopee TW Product Scraper
+2025-04-16 18:54:40,153 [INFO] Using 1 workers for 1 products
+2025-04-16 18:54:40,154 [INFO] Loaded 1 cookie files
+2025-04-16 18:54:40,154 [INFO] Loaded 0 individual proxies
+2025-04-16 18:54:43,623 [INFO] Worker 0 authenticated as user: jessepink644
+2025-04-16 18:54:46,470 [INFO] Requesting product 24051054892 from shop 163826 (attempt 1/5)
+2025-04-16 18:54:46,676 [WARNING] API returned error code: 90309999
+2025-04-16 18:54:46,676 [WARNING] Response missing data field: {'5': False, '2': True, '0': 2, '3': 90309999, 'error': 90309999, '1': '6775fe761c9-ad56-4df6-852f-7609c1e13599'}
+2025-04-16 18:54:46,676 [INFO] Retry 1/5 for item 24051054892, backing off for 3.59s
+2025-04-16 19:07:06,647 [INFO] Starting Shopee TW Product Scraper
+2025-04-16 19:07:06,651 [INFO] Using 1 workers for 1 products
+2025-04-16 19:07:06,652 [INFO] Loaded 1 cookie files
+2025-04-16 19:07:06,652 [INFO] Loaded 0 individual proxies
+2025-04-16 19:07:08,059 [ERROR] Error getting account info: Invalid leading whitespace, reserved character(s), or return character(s) in header name: ':authority'
+2025-04-16 19:07:10,800 [INFO] Requesting product 9368269078 from shop 327985547 (attempt 1/5)
+2025-04-16 19:07:10,800 [ERROR] Request exception for product 9368269078: Invalid leading whitespace, reserved character(s), or return character(s) in header name: ':authority'
+2025-04-16 19:07:10,800 [INFO] Retry 1/5 for item 9368269078, backing off for 3.97s
+2025-04-16 20:01:27,746 [INFO] Starting Shopee TW Product Scraper
+2025-04-16 20:01:27,751 [INFO] Using 1 workers for 1 products
+2025-04-16 20:01:27,760 [INFO] Loaded 1 cookie files
+2025-04-16 20:01:27,760 [INFO] Loaded 0 individual proxies
+2025-04-16 20:01:31,050 [INFO] Worker 0 authenticated as user: jessepink644
+2025-04-16 20:01:33,655 [INFO] Requesting product 9368269078 from shop 327985547 (attempt 1/5)
+2025-04-16 20:01:33,968 [WARNING] API returned error code: 90309999
+2025-04-16 20:01:33,969 [WARNING] Response missing data field: {'5': False, '2': True, '0': 2, '3': 90309999, 'error': 90309999, '1': '967e142771b-b8c8-4b14-abb2-1a9c31675902'}
+2025-04-16 20:01:33,969 [INFO] Retry 1/5 for item 9368269078, backing off for 3.64s
+2025-04-16 20:17:02,020 [INFO] Starting Shopee TW Product Scraper
+2025-04-16 20:17:02,024 [INFO] Using 1 workers for 1 products
+2025-04-16 20:17:02,026 [INFO] Loaded 1 cookie files
+2025-04-16 20:17:02,026 [INFO] Loaded 0 individual proxies
+2025-04-16 20:17:07,726 [INFO] Requesting product 9368269078 from shop 327985547 (attempt 1/5)
+2025-04-16 20:17:07,933 [WARNING] API returned error code: 90309999
+2025-04-16 20:17:07,933 [WARNING] Response missing data field: {'5': False, '2': True, '0': 2, '3': 90309999, 'error': 90309999, '1': '97575d84dcc-b3e4-4bbe-8f17-fe1173947d94'}
+2025-04-16 20:17:07,933 [INFO] Retry 1/5 for item 9368269078, backing off for 4.66s
